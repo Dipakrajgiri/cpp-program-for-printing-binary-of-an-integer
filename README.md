@@ -3,7 +3,8 @@ Hello i am a noob student.
 
 
 source code:
-    #include<iostream>
+   
+     #include<iostream>
 
      using namespace std;
      int main()
@@ -60,8 +61,8 @@ source code:
              cout<<endl;
      }
 
- }
+    }
 
 
- return 0;
- }
+   return 0;
+    }
