@@ -1,7 +1,8 @@
 # c-program-for-printing-binary-of-an-integer
 c++ program for printing binary of an integer
-sourcs code;
-# include<iostream>
+source code:
+
+ include<iostream>
 
  using namespace std;
  int main()
